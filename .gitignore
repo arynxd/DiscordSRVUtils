@@ -8,7 +8,7 @@ data/
 /bin/
 
 # intellij files
-.idea
+/.idea/
 *.iml
 *.ipr
 *.iws
